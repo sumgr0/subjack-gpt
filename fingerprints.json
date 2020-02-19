@@ -161,18 +161,6 @@
 		"nxdomain": false
 	},
 	{
-		"service": "fastly",
-		"cname": [
-			"global.prod.fastly.net",
-			"map.fastly.net"
-		],
-		"fingerprint": [
-			"Fastly error: unknown domain:",
-            "Please check that this domain has been added to a service"
-		],
-		"nxdomain": false
-    },
-	{
 		"service": "feedpress",
 		"cname": [
 			"redirect.feedpress.me"
