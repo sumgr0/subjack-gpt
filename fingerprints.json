@@ -538,7 +538,8 @@
 	{
 		"service": "tilda",
 		"cname": [
-			"tilda.ws"
+			"tilda.ws",
+			"tilda.cc"
 		],
 		"fingerprint": [
 		        "Domain has been assigned."
