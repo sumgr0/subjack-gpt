@@ -5,24 +5,24 @@
 			"aftership.com"
 		],
 		"fingerprint": [
-			"Oops.</h2><p class=\"text-muted text-tight\">The page you're looking for doesn't exist."
+			"Oops. The page you're looking for doesn't exist"
 		],
 		"nxdomain": false
 	},
 	{
 		"service": "aha!",
 		"cname": [
-			"ideas.aha.io"
+			"aha.io"
 		],
 		"fingerprint": [
-			"There is no portal here ... sending you back to Aha!"
+			"There is no portal here"
 		],
 		"nxdomain": false
     },
     {
 		"service": "airee",
 		"cname": [
-			"cdn.airee.ru"
+			"airee.ru"
 		],
 		"fingerprint": [
 		     "Ошибка 402"
@@ -36,14 +36,14 @@
 		],
 		"fingerprint": [
 			 "Missing Website",
-			 "If this is your website and you've just created it, try refreshing in a minute."
+			 "If this is your website and you've just created it, try refreshing in a minute"
 		],
 		"nxdomain": false
     	},
 	{
 		"service": "aws/s3",
 		"cname": [
-			"amazonaws",
+			"amazonaws.com",
             "s3-website"
 		],
 		"fingerprint": [
@@ -55,25 +55,22 @@
     	{
 		"service": "azure",
 		"cname": [
-			".azurewebsites.net",
-			".cloudapp.net",
-			".cloudapp.azure.com",
-			".blob.core.windows.net",
-			".azure-api.net",
-			".azurehdinsight.net",
-			".azureedge.net",
-			".azurecontainer.io",
-			".database.windows.net",
-			".azuredatalakestore.net",
-			".search.windows.net",
-			".azurecr.io",
-			".redis.cache.windows.net",
-			".servicebus.windows.net",
-			".trafficmanager.net",
-			".web.core.windows.net",		
-			".visualstudio.com"
+			"azurewebsites.net",
+			"cloudapp.net",
+			"cloudapp.azure.com",
+			"azure-api.net",
+			"azurehdinsight.net",
+			"azureedge.net",
+			"azurecontainer.io",
+			"azuredatalakestore.net",
+			"azurecr.io",
+			"windows.net",
+			"trafficmanager.net",	
+			"visualstudio.com"
 		],
-		"fingerprint": [],
+		"fingerprint": [
+			"404"
+		],
 		"nxdomain": true
     },
 	{
@@ -93,7 +90,7 @@
 			"brightcove.com"
 		],
 		"fingerprint": [
-			"<p class=\"bc-gallery-error-code\">Error Code: 404</p>"
+			"Error Code: 404"
 		],
 		"nxdomain": false
 	},
@@ -103,7 +100,7 @@
 			"bigcartel.com"
 		],
 		"fingerprint": [
-			"<h1>Oops! We could&#8217;t find that page.</h1>"
+			"Oops! We couldn't find that page"
 		],
 		"nxdomain": false
 	},
@@ -113,15 +110,15 @@
 			"createsend.com"
 		],
 		"fingerprint": [
-			"Double check the URL or <a href=\"mailto:help@createsend.com",
-			"'Trying to access your account?'"
+			"Double check the URL or",
+			"Trying to access your account?"
 		],
 		"nxdomain": false
 	},
 	{
 		"service": "canny",
 		"cname": [
-			"cname.canny.io"
+			"canny.io"
 		],
 		"fingerprint": [
 			"Company Not Found",
@@ -132,7 +129,7 @@
 	{
 		"service": "cargocollective",
 		"cname": [
-			"subdomain.cargocollective.com"
+			"cargocollective.com"
 		],
 		"fingerprint": [
 			"Connect it by adding it to your Settings."
@@ -153,7 +150,7 @@
 	{
 		"service": "distil",
 		"cname": [
-			".distil.us"
+			"distil.us"
 		],
 		"fingerprint": [
 		        "Requested Domain Unavailable"
@@ -163,7 +160,7 @@
 	{
 		"service": "feedpress",
 		"cname": [
-			"redirect.feedpress.me"
+			"feedpress.me"
 		],
 		"fingerprint": [
 			"The feed has not been found."
@@ -176,21 +173,15 @@
 			"fly.io",
 			"shw.io"
 		],
-        "fingerprint": [],
+        "fingerprint": [
+			"404 Not Found"
+		],
 		"nxdomain": false
     },
-    {
-		"service": "fider",
-		"cname": [
-			"fider.io"
-		],
-		"fingerprint": [],
-		"nxdomain": false
-	},
 	{
 		"service": "frontify",
 		"cname": [
-			""
+			"frontify"
 		],
 		"fingerprint": [
 			"404 - Page not found. Oops... look like you got lost."
@@ -200,7 +191,7 @@
 	{
 		"service": "getresponse",
 		"cname": [
-			".gr8.com"
+			"gr8.com"
 		],
 		"fingerprint": [
 			"With GetResponse Landing Pages, lead generation has never been easier"
@@ -231,7 +222,7 @@
 	{
 		"service": "google",
 		"cname": [
-			"ghs.google.com"
+			"google.com"
 		],
 		"fingerprint": [
 			"The requested URL / was not found on this server. That's all we know."
@@ -287,7 +278,7 @@
 			"herokuapp"
 		],
 		"fingerprint": [
-			"herokucdn.com/error-pages/no-such-app.html",
+			"There's nothing here",
             "No such app"
 		],
 		"nxdomain": false
@@ -309,8 +300,7 @@
 			"intercom.io"
 		],
 		"fingerprint": [
-			"This page is reserved for artistic dogs.",
-			"<h1 class=\"headline\"Uh oh. That page doesn't exist.</h1>",
+			"This page is reserved for artistic dogs",
 			"Uh oh. That page doesn't exist."
 		],
 		"nxdomain": false
@@ -338,7 +328,7 @@
 	{
 		"service": "landingi",
 		"cname": [
-			"cname.landingi.com"
+			"landingi.com"
 		],
 		"fingerprint": [
 			"It looks like you're lost..."
@@ -424,8 +414,8 @@
 	{
 		"service": "readme",
 		"cname": [
-			"cname.readme.io",
-			"ssl.readmessl.com"
+			"readme.io",
+			"readmessl.com"
 		],
 		"fingerprint": [
 			"Project doesnt exist... yet!"
@@ -449,7 +439,7 @@
 			"simplebooklet.com"
 		],
 		"fingerprint": [
-			"We can't find this <a href=\"https://simplebooklet.com"
+			"We can't find this"
 		],
 		"nxdomain": false
 	},
@@ -460,7 +450,7 @@
 		],
         "fingerprint": [
 			"But if you're looking to build your own website,",
-			"<h1> PAGE NOT FOUND.</h1>"
+			"PAGE NOT FOUND"
         ],
         
 		"nxdomain": false
@@ -468,7 +458,7 @@
     {
 		"service": "smugmug",
 		"cname": [
-			"domains.smugmug.com"
+			"smugmug.com"
 		],
 		"fingerprint": [],
 		"nxdomain": true
@@ -476,7 +466,7 @@
 	{
 		"service": "squarespace",
 		"cname": [
-			".squarespace.com"
+			"squarespace.com"
 		],
 		"fingerprint": [
 			"Squarespace - Claim This Domain"
@@ -496,7 +486,7 @@
 	{
 		"service": "surveygizmo-eu",
 		"cname": [
-			"privatedomain.surveygizmo.eu"
+			"surveygizmo.eu"
 		],
 		"fingerprint": [
 			"data-html-name"
@@ -516,7 +506,7 @@
     {
 		"service": "tictail",
 		"cname": [
-			"domains.tictail.com"
+			"tictail.com"
 		],
 		"fingerprint": [
 			"to target URL: <a href=\"https://tictail.com",
@@ -578,7 +568,7 @@
 	{
 		"service": "uptimerobot",
 		"cname": [
-			"stats.uptimerobot.com"
+			"uptimerobot.com"
 		],
 		"fingerprint": [
 			"Redirecting to https://uptimerobot.com/"
@@ -598,11 +588,10 @@
 	{
 		"service": "webflow",
 		"cname": [
-			"proxy.webflow.com",
-			"proxy-ssl.webflow.com"
+			"webflow.com"
 		],
 		"fingerprint": [
-			"<p class=\"description\">The page you are looking for doesn't exist or has been moved.</p>"
+			"The page you are looking for doesn't exist or has been moved"
 		],
 		"nxdomain": false
 	},
