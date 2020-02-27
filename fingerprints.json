@@ -68,9 +68,7 @@
 			"trafficmanager.net",	
 			"visualstudio.com"
 		],
-		"fingerprint": [
-			"404"
-		],
+		"fingerprint": [],
 		"nxdomain": true
     },
 	{
@@ -173,9 +171,7 @@
 			"fly.io",
 			"shw.io"
 		],
-        "fingerprint": [
-			"404 Not Found"
-		],
+        "fingerprint": [],
 		"nxdomain": false
     },
 	{
