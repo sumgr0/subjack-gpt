@@ -270,7 +270,7 @@
 		"cname": [
 			"herokuapp.com",
 			"herokudns.com",
-			"herokussl.com",
+			"herokussl.com"
 		],
 		"fingerprint": [],
 		"nxdomain": false
