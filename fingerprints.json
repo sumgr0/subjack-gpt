@@ -271,12 +271,8 @@
 			"herokuapp.com",
 			"herokudns.com",
 			"herokussl.com",
-			"herokuapp"
 		],
-		"fingerprint": [
-			"There's nothing here",
-            "No such app"
-		],
+		"fingerprint": [],
 		"nxdomain": false
     },
     {
