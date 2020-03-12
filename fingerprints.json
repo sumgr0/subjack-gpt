@@ -306,7 +306,17 @@
 			"is not a registered InCloud YouTrack"
 		],
 		"nxdomain": false
-    },
+	},
+	{
+		"service": "kajabi",
+		"cname": [
+			"kajabi"
+		],
+		"fingerprint": [
+			"The page you were looking for doesn't exist"
+		],
+		"nxdomain": false
+	},
     {
 		"service": "kinsta",
 		"cname": [
@@ -402,6 +412,16 @@
 		],
 		"fingerprint": [],
 		"nxdomain": false
+	},
+	{
+		"service": "proposify",
+		"cname": [
+			"proposify.com"
+		],
+		"fingerprint": [
+			"If you need immediate assistance"
+		],
+		"nxdomain": false
     },
 	{
 		"service": "readme",
@@ -486,12 +506,32 @@
 		"nxdomain": false
 	},
 	{
+		"service": "tave",
+		"cname": [
+			"tave.com"
+		],
+		"fingerprint": [
+			"Error 404: Page Not Found"
+		],
+		"nxdomain": false
+	},
+	{
 		"service": "teamwork",
 		"cname": [
 			"teamwork.com"
 		],
 		"fingerprint": [
-			"Oops - We didn't find your site."
+			"Oops - We didn't find your site"
+		],
+		"nxdomain": false
+	},
+	{
+		"service": "thinkific",
+		"cname": [
+			"thinkific.com"
+		],
+		"fingerprint": [
+			"You may have mistyped the address or the page may have moved"
 		],
 		"nxdomain": false
     },
