@@ -385,7 +385,7 @@
 		"nxdomain": false
 	},
 	{
-		"service": "Pantheon",
+		"service": "pantheon",
 		"cname": [
 			"pantheonsite.io"
 		],
@@ -408,9 +408,7 @@
 		"cname": [
 			"proposify.com"
 		],
-		"fingerprint": [
-			"If you need immediate assistance"
-		],
+		"fingerprint": [],
 		"nxdomain": false
     },
 	{
@@ -600,11 +598,9 @@
 	{
 		"service": "webflow",
 		"cname": [
-			"webflow.com"
+			"proxy-ssl.webflow.com"
 		],
-		"fingerprint": [
-			"The page you are looking for doesn't exist or has been moved"
-		],
+		"fingerprint": [],
 		"nxdomain": false
 	},
 	{
