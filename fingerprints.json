@@ -385,6 +385,16 @@
 		"nxdomain": false
 	},
 	{
+		"service": "ning",
+		"cname": [
+			"" 
+		],
+		"fingerprint": [
+		    "is free to take"
+		],
+		"nxdomain": false
+	},
+	{
 		"service": "pantheon",
 		"cname": [
 			"pantheonsite.io"
