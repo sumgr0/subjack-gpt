@@ -465,13 +465,22 @@
         
 		"nxdomain": false
     },
+	{
+		"service": "smartjobboard",
+		"cname": [],
+		"fingerprint": [
+			"Job Board is Unavailable"
+		],
+		"nxdomain": false
+	},
+	
     {
 		"service": "smugmug",
 		"cname": [
 			"smugmug.com"
 		],
 		"fingerprint": [],
-		"nxdomain": true
+		"nxdomain": false
 	},
 	{
 		"service": "squarespace",
