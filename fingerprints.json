@@ -1,5 +1,13 @@
 [
     {
+		"service": "acquia",
+		"cname": [
+			"acquia-sites.com"
+		],
+		"fingerprint": [],
+		"nxdomain": false
+	},
+	{
 		"service": "aftership",
 		"cname": [
 			"aftership.com"
