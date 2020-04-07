@@ -4,7 +4,9 @@
 		"cname": [
 			"acquia-sites.com"
 		],
-		"fingerprint": [],
+		"fingerprint": [
+			"Welcome to Acquia Cloud"
+		],
 		"nxdomain": false
 	},
 	{
