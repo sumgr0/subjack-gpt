@@ -166,6 +166,18 @@
 		"nxdomain": false
 	},
 	{
+		"service": "fastly",
+		"cname": [
+			"global.prod.fastly.net",
+			"map.fastly.net"
+		],
+		"fingerprint": [
+			"Fastly error: unknown domain:",
+            "Please check that this domain has been added to a service"
+		],
+		"nxdomain": false
+    	},
+	{
 		"service": "feedpress",
 		"cname": [
 			"feedpress.me"
@@ -181,9 +193,9 @@
 			"fly.io",
 			"shw.io"
 		],
-        "fingerprint": [],
+        	"fingerprint": [],
 		"nxdomain": false
-    },
+    	},
 	{
 		"service": "frontify",
 		"cname": [
@@ -235,7 +247,7 @@
 		],
 		"nxdomain": false
 	},
-    {
+    	{
 		"service": "hatenablog",
 		"cname": [
 			"hatenablog.com"
@@ -244,7 +256,7 @@
 			"404 Blog is not found"
 		],
 		"nxdomain": false
-    },
+   	 },
 	{
 		"service": "helprace",
 		"cname": [
@@ -274,8 +286,8 @@
 			"No settings were found for this company"
 		],
 		"nxdomain": false
-    },
-    {
+   	},
+    	{
 		"service": "heroku",
 		"cname": [
 			"herokuapp.com",
@@ -284,8 +296,8 @@
 		],
 		"fingerprint": [],
 		"nxdomain": false
-    },
-    {
+    	},
+    	{
 		"service": "instapage",
 		"cname": [
             "pageserve.co"
@@ -294,8 +306,8 @@
             "You've Discovered A Missing Link. Our Apologies!"
         ],
 		"nxdomain": false
-    },
-    {
+    	},
+    	{
 		"service": "intercom",
 		"cname": [
 			"custom.intercom.help",
@@ -306,7 +318,7 @@
 			"Uh oh. That page doesn't exist."
 		],
 		"nxdomain": false
-    },
+    	},
 	{
 		"service": "jetBrains",
 		"cname": [
@@ -317,7 +329,7 @@
 		],
 		"nxdomain": false
 	},
-    {
+    	{
 		"service": "kinsta",
 		"cname": [
 			"kinsta.com"
@@ -336,7 +348,7 @@
 			"It looks like you're lost..."
 		],
 		"nxdomain": false
-    },
+    	},
 	{
 		"service": "launchrock",
 		"cname": [
@@ -368,7 +380,7 @@
 		],
 		"nxdomain": false
 	},
-    {
+    	{
 		"service": "naver",
 		"cname": [
 			"" 
@@ -378,20 +390,20 @@
 		],
 		"nxdomain": false
 	},
-    {
+    	{
 		"service": "netlify",
 		"cname": [
 			".netlify.com"
 		],
-        "fingerprint": [],
+        	"fingerprint": [],
 		"nxdomain": false
-    },
-    {
+    	},
+    	{
 		"service": "ngrok",
 		"cname": [
 			"ngrok.io"
 		],
-        "fingerprint": [],
+        	"fingerprint": [],
 		"nxdomain": false
 	},
 	{
@@ -414,7 +426,7 @@
             "404 error unknown site!"
 		],
 		"nxdomain": false
-    },
+    	},
 	{
 		"service": "pingdom",
 		"cname": [
@@ -430,7 +442,7 @@
 		],
 		"fingerprint": [],
 		"nxdomain": false
-    },
+    	},
 	{
 		"service": "readme",
 		"cname": [
@@ -441,7 +453,7 @@
 			"Project doesnt exist... yet!"
 		],
 		"nxdomain": false
-    },
+    	},
 	{
 		"service": "shopify",
 		"cname": [
@@ -452,7 +464,7 @@
             "Only one step left!"
 		],
 		"nxdomain": false
-    },
+    	},
 	{
 		"service": "simplebooklet",
 		"cname": [
@@ -468,13 +480,12 @@
 		"cname": [
 			"strikinglydns.com"
 		],
-        "fingerprint": [
+        	"fingerprint": [
 			"But if you're looking to build your own website,",
 			"PAGE NOT FOUND"
-        ],
-        
+        	],
 		"nxdomain": false
-    },
+    	},
 	{
 		"service": "smartjobboard",
 		"cname": [],
@@ -484,7 +495,7 @@
 		"nxdomain": false
 	},
 	
-    {
+    	{
 		"service": "smugmug",
 		"cname": [
 			"smugmug.com"
@@ -511,7 +522,7 @@
 			"project not found"
 		],
 		"nxdomain": false
-    },
+    	},
 	{
 		"service": "surveygizmo-eu",
 		"cname": [
@@ -542,19 +553,19 @@
 		],
 		"nxdomain": false
 	},
-    {
+    	{
 		"service": "tictail",
 		"cname": [
 			"tictail.com"
 		],
 		"fingerprint": [
 			"to target URL: <a href=\"https://tictail.com",
-            "Start selling on Tictail.",
-            "Building a brand of your own?"
+            		"Start selling on Tictail.",
+            		"Building a brand of your own?"
 		],
 		"nxdomain": false
-    },
-    {
+    	},
+    	{
 		"service": "tistory",
 		"cname": [
 			"tistory.io"
@@ -581,8 +592,8 @@
 			"domains.tumblr.com"
 		],
 		"fingerprint": [
-            "Whatever you were looking for doesn't currently exist at this address",
-            "There's nothing here."
+            		"Whatever you were looking for doesn't currently exist at this address",
+            		"There's nothing here."
 		],
 		"nxdomain": false
 	},
@@ -593,7 +604,7 @@
 		],
 		"fingerprint": [],
 		"nxdomain": false
-    },
+    	},
 	{
 		"service": "uservoice",
 		"cname": [
@@ -603,7 +614,7 @@
 			"This UserVoice subdomain is currently available!"
 		],
 		"nxdomain": false
-    },
+    	},
 	{
 		"service": "uptimerobot",
 		"cname": [
