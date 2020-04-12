@@ -298,16 +298,6 @@
 		"nxdomain": false
     	},
     	{
-		"service": "instapage",
-		"cname": [
-            "pageserve.co"
-    	],
-		"fingerprint": [
-            "You've Discovered A Missing Link. Our Apologies!"
-        ],
-		"nxdomain": false
-    	},
-    	{
 		"service": "intercom",
 		"cname": [
 			"custom.intercom.help",
@@ -403,7 +393,9 @@
 		"cname": [
 			"ngrok.io"
 		],
-        	"fingerprint": [],
+        	"fingerprint": [
+			"Tunnel *.ngrok.io not found"
+		],
 		"nxdomain": false
 	},
 	{
@@ -490,7 +482,7 @@
 		"service": "smartjobboard",
 		"cname": [],
 		"fingerprint": [
-			"Job Board is Unavailable"
+			"This job board website is either expired or its domain name is invalid."
 		],
 		"nxdomain": false
 	},
@@ -640,7 +632,9 @@
 		"cname": [
 			"proxy-ssl.webflow.com"
 		],
-		"fingerprint": [],
+		"fingerprint": [
+			"The page you are looking for doesn't exist or has been moved."
+		],
 		"nxdomain": false
 	},
 	{
