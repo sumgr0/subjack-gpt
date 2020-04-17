@@ -20,6 +20,16 @@
 		"nxdomain": false
 	},
 	{
+		"service": "agilecrm",
+		"cname": [
+			"cname.agilecrm.com"
+		],
+		"fingerprint": [
+			"Sorry, this page is no longer available."
+		],
+		"nxdomain": false
+	},
+	{
 		"service": "aha!",
 		"cname": [
 			"aha.io"
