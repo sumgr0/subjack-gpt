@@ -150,8 +150,8 @@
 			"digitaloceanspaces.com"
 		],
 		"fingerprint": [
-				"</BucketName><RequestId>tx000000000000",
-				"Domain uses DO name serves with no records in DO."
+			"</BucketName><RequestId>tx000000000000",
+			"Domain uses DO name serves with no records in DO."
 		],
 		"nxdomain": false
 	},
@@ -173,7 +173,7 @@
 		],
 		"fingerprint": [
 			"Fastly error: unknown domain:",
-            "Please check that this domain has been added to a service"
+            		"Please check that this domain has been added to a service"
 		],
 		"nxdomain": false
     	},
@@ -233,7 +233,7 @@
 		],
 		"fingerprint": [
 			"There isn't a GitHub Pages site here.",
-            "For root URLs (like http://example.com/) you must provide an index.html file"
+            		"For root URLs (like http://example.com/) you must provide an index.html file"
 		],
 		"nxdomain": false
 	},
@@ -414,8 +414,8 @@
 			"pantheonsite.io"
 		],
 		"fingerprint": [
-            "The gods are wise, but do not know of the site which you seek.",
-            "404 error unknown site!"
+            		"The gods are wise, but do not know of the site which you seek.",
+            		"404 error unknown site!"
 		],
 		"nxdomain": false
     	},
@@ -424,7 +424,9 @@
 		"cname": [
 			"stats.pingdom.com"
 		],
-		"fingerprint": [],
+		"fingerprint": [
+			"This public report page has not been activated"
+		],
 		"nxdomain": false
 	},
 	{
@@ -452,8 +454,8 @@
 			"shops.myshopify.com"
 		],
 		"fingerprint": [
-            "Sorry, this shop is currently unavailable.",
-            "Only one step left!"
+            		"Sorry, this shop is currently unavailable.",
+           		"Only one step left!"
 		],
 		"nxdomain": false
     	},
