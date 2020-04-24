@@ -144,17 +144,6 @@
 		"nxdomain": false
 	},
 	{
-		"service": "digitaloceanspaces",
-		"cname": [
-			"digitaloceanspaces.com"
-		],
-		"fingerprint": [
-			"</BucketName><RequestId>tx000000000000",
-			"Domain uses DO name serves with no records in DO."
-		],
-		"nxdomain": false
-	},
-	{
 		"service": "distil",
 		"cname": [
 			"distil.us"
