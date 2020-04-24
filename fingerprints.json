@@ -38,8 +38,8 @@
 			"There is no portal here"
 		],
 		"nxdomain": false
-    },
-    {
+   	},
+    	{
 		"service": "airee",
 		"cname": [
 			"airee.ru"
@@ -90,7 +90,7 @@
 		],
 		"fingerprint": [],
 		"nxdomain": true
-    },
+    	},
 	{
 		"service": "bitbucket",
 		"cname": [
@@ -100,18 +100,7 @@
 			"Repository not found"
 		],
 		"nxdomain": false
-    },
-	{
-		"service": "brightcove",
-		"cname": [
-			"bcvp0rtal.com",
-			"brightcove.com"
-		],
-		"fingerprint": [
-			"Error Code: 404"
-		],
-		"nxdomain": false
-	},
+    	},
 	{
 		"service": "bigcartel",
 		"cname": [
