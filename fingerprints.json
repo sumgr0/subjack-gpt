@@ -63,12 +63,22 @@
 	{
 		"service": "aws/s3",
 		"cname": [
-			"amazonaws.com",
-            "s3-website"
+			"",
+            		"s3-website"
 		],
 		"fingerprint": [
 			"The specified bucket does not exist",
-            "NoSuchBucket"
+            		"NoSuchBucket"
+		],
+		"nxdomain": false
+	},
+	{
+		"service": "elasticbeans",
+		"cname": [
+			"elasticbeans.com"
+		],
+		"fingerprint": [
+			"This site can't be reached"
 		],
 		"nxdomain": false
 	},
