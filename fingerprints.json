@@ -63,7 +63,6 @@
 	{
 		"service": "aws/s3",
 		"cname": [
-			"",
             		"s3-website"
 		],
 		"fingerprint": [
