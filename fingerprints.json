@@ -493,6 +493,16 @@
 		"nxdomain": false
 	},
 	{
+		"service": "statuspage",
+		"cname": [
+			"statuspage.io"
+		],
+		"fingerprint": [
+			"You are being <a href=\"https://www.statuspage.io\">redirected"
+		],
+		"nxdomain": false
+	},
+	{
 		"service": "surge",
 		"cname": [
 			"surge.sh"
