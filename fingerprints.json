@@ -587,6 +587,16 @@
 		"nxdomain": false
 	},
 	{
+		"service": "uberflip",
+		"cname": [
+			"uberflip.com"
+		],
+		"fingerprint": [
+			"Non-hub domain"
+		],
+		"nxdomain": false
+    	},
+	{
 		"service": "unbounce",
 		"cname": [
 			"unbouncepages.com"
