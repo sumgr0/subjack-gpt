@@ -595,16 +595,6 @@
 		"nxdomain": false
     	},
 	{
-		"service": "uservoice",
-		"cname": [
-			"uservoice.com"
-		],
-		"fingerprint": [
-			"This UserVoice subdomain is currently available!"
-		],
-		"nxdomain": false
-    	},
-	{
 		"service": "uptimerobot",
 		"cname": [
 			"uptimerobot.com"
