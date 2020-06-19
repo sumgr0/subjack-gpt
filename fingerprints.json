@@ -75,7 +75,7 @@
 	{
 		"service": "elasticbeans",
 		"cname": [
-			"elasticbeans.com"
+			"elasticbeanstalk.com"
 		],
 		"fingerprint": [
 			"This site can't be reached"
@@ -85,18 +85,22 @@
     	{
 		"service": "azure",
 		"cname": [
-			"azurewebsites.net",
-			"cloudapp.net",
-			"cloudapp.azure.com",
-			"azure-api.net",
-			"azurehdinsight.net",
-			"azureedge.net",
-			"azurecontainer.io",
-			"azuredatalakestore.net",
-			"azurecr.io",
-			"windows.net",
-			"trafficmanager.net",	
-			"visualstudio.com"
+			".azurewebsites.net",
+			".cloudapp.net",
+			".cloudapp.azure.com",
+			".blob.core.windows.net",
+			".trafficmanager.net",
+			".azure-api.net",
+			".azurehdinsight.net",
+			".azureedge.net",
+			".azurecontainer.io",
+			".database.windows.net",
+			".azuredatalakestore.net",
+			".search.windows.net",
+			".azurecr.io",
+			".redis.cache.windows.net",
+			".servicebus.windows.net",
+			".visualstudio.com"
 		],
 		"fingerprint": [],
 		"nxdomain": true
@@ -111,6 +115,19 @@
 		],
 		"nxdomain": false
     	},
+	{
+		"service": "bitly",
+		"cname": [
+			"cname.bitly.com"
+		],
+		"fingerprint": [
+			"Hey There, This Is A Branded Short Domain."
+		],
+		"verify": {
+			"cname": true
+		},
+		"nxdomain": false
+	},
 	{
 		"service": "bigcartel",
 		"cname": [
@@ -160,6 +177,16 @@
 		],
 		"fingerprint": [
 		        "Requested Domain Unavailable"
+		],
+		"nxdomain": false
+	},
+	{
+		"service": "divio",
+		"cname": [
+			"aldryn.io"
+		],
+		"fingerprint": [
+			"No application configured"
 		],
 		"nxdomain": false
 	},
@@ -316,6 +343,19 @@
 		"nxdomain": false
 	},
 	{
+		"service": "kajabi",
+		"cname": [
+			"endpoint.mykajabi.com"
+		],
+		"fingerprint": [
+			"<h1>The page you were looking for doesn't exist.</h1>"
+		],
+		"verify": {
+			"body": "Use title if it's in the page YAML frontmatter"
+		},
+		"nxdomain": false
+	},
+	{
 		"service": "landingi",
 		"cname": [
 			"landingi.com"
@@ -418,11 +458,16 @@
 	{
 		"service": "proposify",
 		"cname": [
-			"proposify.com"
+			"proposify.biz"
 		],
-		"fingerprint": [],
+		"fingerprint": [
+			"If you need immediate assistance, please contact <a href=\"mailto:support@proposify.biz"
+		],
+		"verify": {
+			"body": "The page you requested was not found."
+		},
 		"nxdomain": false
-    	},
+	},
 	{
 		"service": "readme",
 		"cname": [
@@ -513,13 +558,29 @@
 		"nxdomain": false
 	},
 	{
-		"service": "tave",
+		"service": "thinkific",
 		"cname": [
-			"tave.com"
+			"thinkific.com"
 		],
 		"fingerprint": [
-			"Error 404: Page Not Found"
+			"You may have mistyped the address or the page may have moved."
 		],
+		"verify": {
+			"body": "iVBORw0KGgoAAAANSUhEUgAAAf"
+		},
+		"nxdomain": false
+	},
+	{
+		"service": "tave",
+		"cname": [
+			"clientaccess.tave.com"
+		],
+		"fingerprint": [
+			"<h1>Error 404: Page Not Found</h1>"
+		],
+		"verify": {
+			"body": "tave.com"
+		},
 		"nxdomain": false
 	},
 	{
@@ -576,6 +637,17 @@
 		],
 		"nxdomain": false
 	},
+	{
+                "service": "uberflip",
+                "cname":[
+                        "read.uberflip.com"
+                ],
+                "fingerprint":[
+                        "Non-hub domain",
+                        "Please check the url and try again"
+                ],
+                "nxdomain": false
+        },
 	{
 		"service": "unbounce",
 		"cname": [
