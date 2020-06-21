@@ -558,19 +558,6 @@
 		"nxdomain": false
 	},
 	{
-		"service": "thinkific",
-		"cname": [
-			"thinkific.com"
-		],
-		"fingerprint": [
-			"You may have mistyped the address or the page may have moved."
-		],
-		"verify": {
-			"body": "iVBORw0KGgoAAAANSUhEUgAAAf"
-		},
-		"nxdomain": false
-	},
-	{
 		"service": "tave",
 		"cname": [
 			"clientaccess.tave.com"
@@ -637,17 +624,6 @@
 		],
 		"nxdomain": false
 	},
-	{
-                "service": "uberflip",
-                "cname":[
-                        "read.uberflip.com"
-                ],
-                "fingerprint":[
-                        "Non-hub domain",
-                        "Please check the url and try again"
-                ],
-                "nxdomain": false
-        },
 	{
 		"service": "unbounce",
 		"cname": [
