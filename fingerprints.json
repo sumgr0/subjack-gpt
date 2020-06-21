@@ -346,19 +346,6 @@
 		"nxdomain": false
 	},
 	{
-		"service": "kajabi",
-		"cname": [
-			"endpoint.mykajabi.com"
-		],
-		"fingerprint": [
-			"<h1>The page you were looking for doesn't exist.</h1>"
-		],
-		"verify": {
-			"body": "Use title if it's in the page YAML frontmatter"
-		},
-		"nxdomain": false
-	},
-	{
 		"service": "landingi",
 		"cname": [
 			"landingi.com"
