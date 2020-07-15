@@ -540,7 +540,9 @@
 	{
 		"service": "surveygizmo-eu",
 		"cname": [
-			"surveygizmo.eu"
+			"surveygizmo.eu",
+			"sgizmo.com",
+			"sgizmoca.com"
 		],
 		"fingerprint": [
 			"data-html-name"
