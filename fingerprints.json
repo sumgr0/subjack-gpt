@@ -5,7 +5,9 @@
 			"acquia-sites.com"
 		],
 		"fingerprint": [
-			"Welcome to Acquia Cloud"
+			"Welcome to Acquia Cloud",
+			"If you are an Acquia Cloud customer and expect to see your site at this address",
+			"The site you are looking for could not be found."
 		],
 		"nxdomain": false
 	},
@@ -164,6 +166,16 @@
 		"nxdomain": false
 	},
 	{
+		"service": "cargo",
+		"cname": [
+			""
+		],
+		"fingerprint": [
+			"If you're moving your domain away from Cargo you must make this configuration through your registrar's DNS control panel."
+		],
+		"nxdomain": false
+	},
+	{
 		"service": "cargocollective",
 		"cname": [
 			"cargocollective.com"
@@ -279,7 +291,9 @@
 			"helprace.com"
 		],
 		"fingerprint": [
-			"Alias not configured!"
+			"Alias not configured!",
+			"Admin of this Helprace account needs to set up domain alias",
+			"(see Step 2 here: Using your own domain with Helprace)."
 		],
 		"nxdomain": false
 	},
@@ -310,7 +324,11 @@
 			"herokudns.com",
 			"herokussl.com"
 		],
-		"fingerprint": [],
+		"fingerprint": [
+			"There's nothing here, yet.",
+			"herokucdn.com/error-pages/no-such-app.html",
+			"<title>No such app</title>"
+		],
 		"nxdomain": false
     	},
     	{
@@ -325,6 +343,16 @@
 		],
 		"nxdomain": false
     	},
+	{
+		"service": "jazzhr",
+		"cname": [
+			""
+		],
+		"fingerprint": [
+			"This account no longer active"
+		],
+		"nxdomain": false
+	},
 	{
 		"service": "jetBrains",
 		"cname": [
@@ -410,7 +438,8 @@
 			"ngrok.io"
 		],
         	"fingerprint": [
-			"Tunnel *.ngrok.io not found"
+			"Tunnel *.ngrok.io not found",
+			"ngrok.io not found"
 		],
 		"nxdomain": false
 	},
@@ -441,7 +470,8 @@
 			"stats.pingdom.com"
 		],
 		"fingerprint": [
-			"This public report page has not been activated"
+			"This public report page has not been activated",
+			"Public Report Not Activated"
 		],
 		"nxdomain": false
 	},
@@ -496,7 +526,8 @@
 			"strikinglydns.com"
 		],
         	"fingerprint": [
-			"But if you're looking to build your own website,"
+			"But if you're looking to build your own website",
+			"you've come to the right place."
         	],
 		"nxdomain": false
     	},
@@ -504,7 +535,9 @@
 		"service": "smartjobboard",
 		"cname": [],
 		"fingerprint": [
-			"This job board website is either expired or its domain name is invalid."
+			"This job board website is either expired or its domain name is invalid.",
+			"Job Board Is Unavailable",
+          		"This job board website is either expired"
 		],
 		"nxdomain": false
 	},
@@ -617,6 +650,16 @@
 		"nxdomain": false
 	},
 	{
+		"service": "uberflip",
+		"cname": [
+			""
+		],
+		"fingerprint": [
+			"Non-hub domain, The URL you've accessed does not provide a hub."
+		],
+		"nxdomain": false
+    	},
+	{
 		"service": "unbounce",
 		"cname": [
 			"unbouncepages.com"
@@ -660,6 +703,17 @@
 			"webmin"
 		],
 		"fingerprint": [],
+		"nxdomain": false
+	},
+	{
+		"service": "wufoo",
+		"cname": [
+			""
+		],
+		"fingerprint": [
+			"Profile not found",
+			"Hmmm....something is not right."
+		],
 		"nxdomain": false
 	},
 	{
