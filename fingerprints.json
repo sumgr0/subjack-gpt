@@ -499,6 +499,18 @@
 		],
 		"nxdomain": false
     	},
+
+        {
+		"service": "readthedocs",
+		"cname": [
+			"readthedocs.io"
+		],
+		"fingerprint": [
+			"is unknown to Read the Docs",
+                        "CNAME record pointing to readthedocs.io"
+		],
+		"nxdomain": false
+    	},
 	{
 		"service": "shopify",
 		"cname": [
