@@ -2,7 +2,8 @@
     {
 		"service": "acquia",
 		"cname": [
-			"acquia-sites.com"
+			"acquia-sites.com",
+			"acquia.com"
 		],
 		"fingerprint": [
 			"Welcome to Acquia Cloud",
@@ -456,7 +457,8 @@
 	{
 		"service": "pantheon",
 		"cname": [
-			"pantheonsite.io"
+			"pantheonsite.io",
+			"pantheon.io"
 		],
 		"fingerprint": [
             		"The gods are wise, but do not know of the site which you seek.",
