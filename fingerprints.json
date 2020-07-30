@@ -703,7 +703,7 @@
 		"service": "webflow",
 		"cname": [
 			"proxy-ssl.webflow.com",
-			"webflow.com"
+			"proxy.webflow.com"
 		],
 		"fingerprint": [
 			"The page you are looking for doesn't exist or has been moved."
