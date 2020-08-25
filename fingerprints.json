@@ -319,6 +319,17 @@
 		],
 		"nxdomain": false
     	},
+	{
+		"service": "hubspot",
+		"cname": [
+			"hubspot.net"
+		],
+		"fingerprint": [
+			"This page isn’t available",
+			"does not exist in our system"
+		],
+		"nxdomain": false
+    	},
     	{
 		"service": "intercom",
 		"cname": [
