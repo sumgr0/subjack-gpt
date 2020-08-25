@@ -40,6 +40,16 @@
 		"nxdomain": false
 	},
 	{
+		"service": "divio",
+		"cname": [
+			"aldryn.io"
+		],
+		"fingerprint": [
+		     "No application configured"
+		],
+		"nxdomain": false
+	},
+	{
 		"service": "anima",
 		"cname": [
 			"animaapp.com"
