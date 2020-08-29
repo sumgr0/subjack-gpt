@@ -329,17 +329,6 @@
 		],
 		"nxdomain": false
     	},
-	{
-		"service": "hubspot",
-		"cname": [
-			"hubspot.net"
-		],
-		"fingerprint": [
-			"This page isn’t available",
-			"does not exist in our system"
-		],
-		"nxdomain": false
-    	},
     	{
 		"service": "intercom",
 		"cname": [
@@ -369,16 +358,6 @@
 		],
 		"fingerprint": [
 			"is not a registered InCloud YouTrack"
-		],
-		"nxdomain": false
-	},
-    	{
-		"service": "kinsta",
-		"cname": [
-			"kinsta.com"
-		],
-		"fingerprint": [
-			"No Site For Domain"
 		],
 		"nxdomain": false
 	},
