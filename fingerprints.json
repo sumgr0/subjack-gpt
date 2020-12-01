@@ -382,6 +382,17 @@
 		"nxdomain": false
 	},
 	{
+		"service": "leadpages",
+		"cname": [
+			"leadpages.net",
+			"custom-proxy.leadpages.net"
+		],
+		"fingerprint": [
+		    "Double check that you have the right web address and give it another go!</p>"
+		],
+		"nxdomain": false
+	},
+	{
 		"service": "mashery",
 		"cname": [
 			"mashery.com"
