@@ -40,6 +40,16 @@
 		"nxdomain": false
 	},
 	{
+		"service": "appery.io",
+		"cname": [
+			""
+		],
+		"fingerprint": [
+		     "This page will be updated automatically when your app is published"
+		],
+		"nxdomain": false
+	},
+	{
 		"service": "divio",
 		"cname": [
 			"aldryn.io"
