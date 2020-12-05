@@ -108,6 +108,7 @@
 			".blob.core.windows.net",
 			".cloudapp.azure.com",
 			".cloudapp.net",
+			".microsoftcrmportals.com",
 			".database.windows.net",
 			".redis.cache.windows.net",
 			".search.windows.net",
