@@ -205,6 +205,16 @@
 		"nxdomain": false
 	},
 	{
+		"service": "fastly",
+		"cname": [
+			"fastly"
+		],
+		"fingerprint": [
+			"Fastly error: unknown domain"
+		],
+		"nxdomain": false
+	},
+	{
 		"service": "feedpress",
 		"cname": [
 			""
