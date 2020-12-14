@@ -391,7 +391,7 @@
 			"Landing Page Not Found"
 		],
 		"nxdomain": false
-	}
+	},
 	{
 		"service": "landingi",
 		"cname": [
@@ -530,7 +530,6 @@
 		],
 		"nxdomain": false
     	},
-
         {
 		"service": "readthedocs",
 		"cname": [
@@ -739,7 +738,7 @@
 					"The deployment could not be found on Vercel."
 			],
 			"nxdomain": false
-	}
+	},
 	{
 		"service": "webflow",
 		"cname": [
