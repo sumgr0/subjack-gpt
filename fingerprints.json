@@ -731,6 +731,16 @@
 		"nxdomain": false
 	},
 	{
+			"service": "vercel",
+			"cname": [
+					""
+			],
+			"fingerprint": [
+					"The deployment could not be found on Vercel."
+			],
+			"nxdomain": false
+	}
+	{
 		"service": "webflow",
 		"cname": [
 			"proxy-ssl.webflow.com",
