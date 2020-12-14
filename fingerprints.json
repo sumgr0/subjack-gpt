@@ -383,6 +383,16 @@
 		"nxdomain": false
 	},
 	{
+		"service": "kickoffpages.com",
+		"cname": [
+			"kickofflabs.edgeapp.net"
+		],
+		"fingerprint": [
+			"Landing Page Not Found"
+		],
+		"nxdomain": false
+	}
+	{
 		"service": "landingi",
 		"cname": [
 			"landingi.com"
