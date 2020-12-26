@@ -223,16 +223,6 @@
 		"nxdomain": false
 	},
 	{
-		"service": "fastly",
-		"cname": [
-			"fastly"
-		],
-		"fingerprint": [
-			"Fastly error: unknown domain"
-		],
-		"nxdomain": false
-	},
-	{
 		"service": "feedpress",
 		"cname": [
 			"feedpress.me"
@@ -707,14 +697,6 @@
 		"fingerprint": [
 			"Non-hub domain, The URL you've accessed does not provide a hub."
 		],
-		"nxdomain": false
-    	},
-	{
-		"service": "unbounce",
-		"cname": [
-			"unbouncepages.com"
-		],
-		"fingerprint": [],
 		"nxdomain": false
     	},
 	{
