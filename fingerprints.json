@@ -6,19 +6,29 @@
                 ],
                 "fingerprint": [
                     "Missing Website",
-                        "If this is your website and you've just created it, try refreshing in a minute"
+                    "If this is your website and you've just created it, try refreshing in a minute"
                 ],
                 "nxdomain": false
         },
+	{
+		"service": "appery.io",
+		"cname": [
+			""
+		],
+		"fingerprint": [
+		     "This page will be updated automatically when your app is published"
+		],
+		"nxdomain": false
+	},
         {
                 "service": "aws/s3",
                 "cname": [
-            "s3-website",
+                        "s3-website",
                         "s3.amazonaws.com"
                 ],
                 "fingerprint": [
                         "The specified bucket does not exist",
-            "NoSuchBucket"
+                        "NoSuchBucket"
                 ],
                 "nxdomain": false
         },
@@ -120,6 +130,17 @@
                         "Connect it by adding it to your Settings."
                 ],
                 "nxdomain": false
+        },
+        {
+                "service": "datocms",
+                "cname": [
+                        "admin.datocms.com"
+                ],
+                "fingerprint": [
+                        "assets.admin.datocms.com"
+                ],
+                "nxdomain": false
+
         },
         {
                 "service": "fly",
@@ -286,7 +307,8 @@
                         "custom-proxy.leadpages.net"
                 ],
                 "fingerprint": [
-                    "Double check that you have the right web address and give it another go!</p>"
+                    "Double check that you have the right web address and give it another go!",
+                    "The page you’re looking for may have been moved"
                 ],
                 "nxdomain": false
         },
@@ -307,7 +329,7 @@
                 ],
                 "fingerprint": [
                     "Page cannot be found.",
-                        "The URL you requested either moved or no longer exists."
+                    "The URL you requested either moved or no longer exists."
                 ],
                 "nxdomain": false
         },
@@ -590,7 +612,7 @@
         {
                 "service": "vercel",
                 "cname": [
-                        ""
+                        "vercel-dns.com"
                 ],
                 "fingerprint": [
                         "The deployment could not be found on Vercel."
