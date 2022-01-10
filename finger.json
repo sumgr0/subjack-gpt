@@ -1,0 +1,336 @@
+[
+    {
+        "service": "aws/s3",
+        "cname": [
+            "s3-website",
+            "s3.amazonaws.com"
+        ],
+        "fingerprint": [
+            "The specified bucket does not exist",
+            "NoSuchBucket"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "announcekit",
+        "cname": [
+            "cname.announcekit.app"
+        ],
+        "fingerprint": [
+            "Error 404 - AnnounceKit",
+            "We're unable to find the page you're looking for"
+        ],
+        "nxdomain": false
+    },
+    {
+         "service": "azure",
+         "cname": [
+            ".accesscontrol.windows.net",
+            ".azure-api.net",
+            ".azurecontainer.io",
+            ".azurecr.io",
+            ".azuredatalakestore.net",
+            ".azureedge.net",
+            ".azurefd.net",
+            ".azurehdinsight.net",
+            ".azure-mobile.net",
+            ".azurewebsites.net",
+            ".biztalk.windows.net",
+            ".blob.core.windows.net",
+            ".cloudapp.azure.com",
+            ".cloudapp.net",
+            ".database.windows.net",
+            ".file.core.windows.net",
+            ".graph.windows.net",
+            ".management.core.windows.net",
+            ".origin.mediaservices.windows.net",
+            ".queue.core.windows.net",
+            ".redis.cache.windows.net",
+            ".search.windows.net",
+            ".servicebus.windows.net",
+            ".table.core.windows.net",
+            ".trafficmanager.net",
+            ".visualstudio.com",
+            ".vo.msecnd.net"
+         ],
+         "fingerprint": [],
+         "nxdomain": true
+    },
+    {
+        "service": "bitbucket",
+        "cname": [
+            "bitbucket.io"
+        ],
+        "fingerprint": [
+            "Repository not found"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "branch.io",
+        "cname": [
+            "custom.bnc.lt"
+        ],
+        "fingerprint": [
+            "https://branch.io/what-is-applink"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "desk",
+        "cname": [
+            "desk.com"
+        ],
+        "fingerprint": [
+            "Please try again or try Desk.com free for 14 days.",
+            "Sorry, We Couldn't Find That Page"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "elasticbeans",
+        "cname": [
+            "elasticbeanstalk.com"
+        ],
+        "fingerprint": [
+            "This site can't be reached"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "flexbe",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "This domain isn't connected to any",
+            "account on the Flexbe platform"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "flywheels",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "We're sorry, you've landed on a page that is hosted by Flywheel",
+            "<h1>Oops! That's not the site<br>you're looking&nbsp;for.</h1>"
+        ],
+        "nxdomain": false
+    },
+    {
+		"service": "gemfury",
+		"cname": [
+			"furyns.com"
+		],
+		"fingerprint": [
+			"https://gemfury.com/404"
+		],
+		"nxdomain": false
+    },
+    {
+        "service": "getresponse",
+        "cname": [
+            "gr8.com",
+            "subscribemenow.com",
+            "getresponsepages.com"
+        ],
+        "fingerprint": [
+            "With GetResponse Landing Pages, lead generation has never been easier"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "github.io",
+        "cname": [
+            "github.io",
+            "github.map.fastly.net"
+        ],
+        "fingerprint": [
+            "There isn't a GitHub Pages site here.",
+            "For root URLs (like http://example.com/) you must provide an index.html file"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "github",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "There isn't a GitHub Pages site here.",
+            "For root URLs (like http://example.com/) you must provide an index.html file"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "heroku",
+        "cname": [
+            "herokuapp.com",
+            "herokudns.com",
+            "herokussl.com"
+        ],
+        "fingerprint": [
+            "There's nothing here, yet.",
+            "herokucdn.com/error-pages/no-such-app.html",
+            "<title>No such app</title>"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "intercom",
+        "cname": [
+            "custom.intercom.help",
+            "intercom.io"
+        ],
+        "fingerprint": [
+            "This page is reserved for artistic dogs",
+            "Uh oh. That page doesn't exist."
+        ],
+        "nxdomain": false
+    },
+    {
+		"service": "kickoffpages.com",
+		"cname": [
+			"kickofflabs.edgeapp.net"
+		],
+		"fingerprint": [
+			"Landing Page Not Found"
+		],
+		"nxdomain": false
+	},
+    {
+        "service": "ngrok",
+        "cname": [
+            "ngrok.io"
+        ],
+        "fingerprint": [
+            "Tunnel *.ngrok.io not found",
+            "ngrok.io not found"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "pantheon",
+        "cname": [
+            "pantheonsite.io",
+            "pantheon.io"
+        ],
+        "fingerprint": [
+            "The gods are wise, but do not know of the site which you seek.",
+            "404 error unknown site!"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "pingdom",
+        "cname": [
+            "stats.pingdom.com"
+        ],
+        "fingerprint": [
+            "This public report page has not been activated",
+            "Public Report Not Activated",
+            "This could be because the account was cancelled",
+            "Sorry, couldn&rsquo;t find the status page",
+            "maybe you slipped over the keyboard"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "readme",
+        "cname": [
+            "readme.io",
+            "readmessl.com"
+        ],
+        "fingerprint": [
+            "Project doesnt exist... yet!"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "readthedocs",
+        "cname": [
+            "readthedocs.io"
+        ],
+        "fingerprint": [
+            "is unknown to Read the Docs",
+            "CNAME record pointing to readthedocs.io"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "shopify",
+        "cname": [
+            "shops.myshopify.com"
+        ],
+        "fingerprint": [
+            "Sorry, this shop is currently unavailable.",
+            "Only one step left!",
+            "To finish setting up your new web address, go to your domain settings, click"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "tilda",
+        "cname": [
+            "tilda.ws",
+            "tilda.cc"
+        ],
+        "fingerprint": [
+            "Domain has been assigned.",
+            "Please go to the site settings",
+            "put the domain name in the Domain tab"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "tumblr",
+        "cname": [
+            "domains.tumblr.com"
+        ],
+        "fingerprint": [
+            "Whatever you were looking for doesn't currently exist at this address",
+            "There's nothing here."
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "webflow",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "The page you are looking for doesn't exist or has been moved."
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "wordpress",
+        "cname": [
+            "wordpress.com"
+        ],
+        "fingerprint": [
+            "Do you want to register"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "zendesk",
+        "cname": [
+            "zendesk.com"
+        ],
+        "fingerprint": [
+            "Help Center Closed"
+        ],
+        "nxdomain": false
+    },
+    {
+		"service": "ssl-zendesk",
+		"cname": [
+			".ssl.zendesk.com"
+		],
+		"fingerprint": [],
+		"nxdomain": true
+	}
+]
