@@ -8,10 +8,6 @@
 			]
 		},
 		{
-			"platform": "WordPress.com",
-			"content": "Do you want to register <em>"
-		},
-		{
 			"platform": "Amazon S3",
 			"content": [
 				"<Code>NoSuchBucket</Code>",
@@ -26,30 +22,12 @@
 			]
 		},
 		{
-			"platform": "Ghost",
-			"content": [
-				"The thing you were looking for is no longer here",
-				"The thing you were looking for is no longer here, or never was"
-			]
-		},
-		{
 			"platform": "Heroku",
 			"content": [
            			 "There's nothing here, yet.",
             			 "herokucdn.com/error-pages/no-such-app.html",
             			 "<title>No such app</title>"
 			]
-		},
-		{
-			"platform": "Intercom",
-			"content": [
-				"Uh oh. That page doesn't exist.",
-				"This page is reserved for artistic dogs."
-			]
-		},
-		{
-			"platform": "Ngrok",
-			"content": "Tunnel *.ngrok.io not found"
 		},
 		{
 			"platform": "Pantheon",
@@ -71,18 +49,6 @@
 			]
 		},
 		{
-			"platform": "SmartJobBoard",
-			"content": "This job board website is either expired or its domain name is invalid."
-		},
-		{
-			"platform": "Strikingly",
-			"content": "<title>Page not found - Strikingly</title>"
-		},
-		{
-			"platform": "Surge.sh",
-			"content": "<h1>project not found</h1>"
-		},
-		{
 			"platform": "Tumblr",
 			"content": [
 				"Whatever you were looking for doesn't currently exist at this address. Unless you were looking for this error page, in which case: Congrats! You totally found it.",
@@ -94,32 +60,6 @@
 			"content": "<p class=\"description\">The page you are looking for doesn't exist or has been moved.</p>"
 		},
 		{
-			"platform": "Worksites",
-			"content": "<p>Hello! Sorry, but the website you&rsquo;re looking for doesn&rsquo;t exist.</p>"
-		},
-		{
-			"platform": "WordPress.com",
-			"content": "<title>Error: Domain mapping upgrade for this domain not found</title>"
-		},
-		{
-			"platform": "Instapage",
-			"content": "You've Discovered A Missing Link. Our Apologies!"
-		},
-		{
-			"platform": "Desk",
-			"content": [
-				"Please try again or try Desk.com free for 14 days.",
-				"Sorry, We Couldn't Find That Page"
-			]
-		},
-		{
-			"platform": "Tictail",
-			"content": [
-				"Building a brand of your own?",
-				"to target URL: <a href=\"https://tictail.com", "Start selling on Tictail."
-			]
-		},
-		{
 			"platform": "Zendesk",
 			"content": [
 				"<title>Help Center Closed | Zendesk</title>",
@@ -129,30 +69,6 @@
 		{
 			"platform": "Tilda",
 			"content": "Domain has been assigned"
-		},
-		{
-			"platform": "Teamwork",
-			"content": "Oops - We didn't find your site."
-		},
-		{
-			"platform": "Mashery",
-			"content": "Unrecognized domain <strong>"
-		},
-		{
-			"platform": "Aftership",
-			"content": "Oops.</h2><p class=\"text-muted text-tight\">The page you're looking for doesn't exist."
-		},
-		{
-			"platform": "Simplebooklet",
-			"content": "We can't find this <a href=\"https://simplebooklet.com"
-		},
-		{
-			"platform": "Getresponse",
-			"content": "With GetResponse Landing Pages, lead generation has never been easier"
-		},
-		{
-			"platform": "Vend",
-			"content": "Looks like you've traveled too far into cyberspace."
 		}
 	]
 }
