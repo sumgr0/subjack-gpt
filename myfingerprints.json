@@ -1,0 +1,159 @@
+[
+    {
+        "service": "aws/s3",
+        "cname": [
+            "s3-website",
+            "s3.amazonaws.com"
+        ],
+        "fingerprint": [
+            "The specified bucket does not exist",
+            "NoSuchBucket"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "bitbucket",
+        "cname": [
+            "bitbucket.io"
+        ],
+        "fingerprint": [
+            "Repository not found"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "flywheels",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "We're sorry, you've landed on a page that is hosted by Flywheel",
+            "<h1>Oops! That's not the site<br>you're looking&nbsp;for.</h1>"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "github.io",
+        "cname": [
+            "github.io",
+            "github.map.fastly.net"
+        ],
+        "fingerprint": [
+            "There isn't a GitHub Pages site here.",
+            "For root URLs (like http://example.com/) you must provide an index.html file"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "github",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "There isn't a GitHub Pages site here.",
+            "For root URLs (like http://example.com/) you must provide an index.html file"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "heroku",
+        "cname": [
+            "herokuapp.com",
+            "herokudns.com",
+            "herokussl.com"
+        ],
+        "fingerprint": [
+            "There's nothing here, yet.",
+            "herokucdn.com/error-pages/no-such-app.html",
+            "<title>No such app</title>"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "pantheon",
+        "cname": [
+            "pantheonsite.io",
+            "pantheon.io"
+        ],
+        "fingerprint": [
+            "The gods are wise, but do not know of the site which you seek.",
+            "404 error unknown site!"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "readme",
+        "cname": [
+            "readme.io",
+            "readmessl.com"
+        ],
+        "fingerprint": [
+            "Project doesnt exist... yet!"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "shopify",
+        "cname": [
+            "shops.myshopify.com"
+        ],
+        "fingerprint": [
+            "Sorry, this shop is currently unavailable.",
+            "Only one step left!",
+            "To finish setting up your new web address, go to your domain settings, click"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "tilda",
+        "cname": [
+            "tilda.ws",
+            "tilda.cc"
+        ],
+        "fingerprint": [
+            "Domain has been assigned.",
+            "Please go to the site settings",
+            "put the domain name in the Domain tab"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "tumblr",
+        "cname": [
+            "domains.tumblr.com"
+        ],
+        "fingerprint": [
+            "Whatever you were looking for doesn't currently exist at this address",
+            "There's nothing here."
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "webflow",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "The page you are looking for doesn't exist or has been moved."
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "zendesk",
+        "cname": [
+            "zendesk.com"
+        ],
+        "fingerprint": [
+            "Help Center Closed"
+        ],
+        "nxdomain": false
+    },
+    {
+		"service": "ssl-zendesk",
+		"cname": [
+			".ssl.zendesk.com"
+		],
+		"fingerprint": [],
+		"nxdomain": true
+	}
+]
