@@ -12,17 +12,6 @@
         "nxdomain": false
     },
     {
-        "service": "announcekit",
-        "cname": [
-            "cname.announcekit.app"
-        ],
-        "fingerprint": [
-            "Error 404 - AnnounceKit",
-            "We're unable to find the page you're looking for"
-        ],
-        "nxdomain": false
-    },
-    {
          "service": "azure",
          "cname": [
             ".accesscontrol.windows.net",
@@ -57,87 +46,11 @@
          "nxdomain": true
     },
     {
-        "service": "bitbucket",
+        "service": "gitbook",
         "cname": [
-            "bitbucket.io"
         ],
         "fingerprint": [
-            "Repository not found"
-        ],
-        "nxdomain": false
-    },
-    {
-        "service": "branch.io",
-        "cname": [
-            "custom.bnc.lt"
-        ],
-        "fingerprint": [
-            "https://branch.io/what-is-applink"
-        ],
-        "nxdomain": false
-    },
-    {
-        "service": "desk",
-        "cname": [
-            "desk.com"
-        ],
-        "fingerprint": [
-            "Please try again or try Desk.com free for 14 days.",
-            "Sorry, We Couldn't Find That Page"
-        ],
-        "nxdomain": false
-    },
-    {
-        "service": "elasticbeans",
-        "cname": [
-            "elasticbeanstalk.com"
-        ],
-        "fingerprint": [
-            "This site can't be reached"
-        ],
-        "nxdomain": false
-    },
-    {
-        "service": "flexbe",
-        "cname": [
-            ""
-        ],
-        "fingerprint": [
-            "This domain isn't connected to any",
-            "account on the Flexbe platform"
-        ],
-        "nxdomain": false
-    },
-    {
-        "service": "flywheels",
-        "cname": [
-            ""
-        ],
-        "fingerprint": [
-            "We're sorry, you've landed on a page that is hosted by Flywheel",
-            "<h1>Oops! That's not the site<br>you're looking&nbsp;for.</h1>"
-        ],
-        "nxdomain": false
-    },
-    {
-		"service": "gemfury",
-		"cname": [
-			"furyns.com"
-		],
-		"fingerprint": [
-			"https://gemfury.com/404"
-		],
-		"nxdomain": false
-    },
-    {
-        "service": "getresponse",
-        "cname": [
-            "gr8.com",
-            "subscribemenow.com",
-            "getresponsepages.com"
-        ],
-        "fingerprint": [
-            "With GetResponse Landing Pages, lead generation has never been easier"
+            "If you need specifics, here's the error"
         ],
         "nxdomain": false
     },
@@ -179,39 +92,6 @@
         "nxdomain": false
     },
     {
-        "service": "intercom",
-        "cname": [
-            "custom.intercom.help",
-            "intercom.io"
-        ],
-        "fingerprint": [
-            "This page is reserved for artistic dogs",
-            "Uh oh. That page doesn't exist."
-        ],
-        "nxdomain": false
-    },
-    {
-		"service": "kickoffpages.com",
-		"cname": [
-			"kickofflabs.edgeapp.net"
-		],
-		"fingerprint": [
-			"Landing Page Not Found"
-		],
-		"nxdomain": false
-	},
-    {
-        "service": "ngrok",
-        "cname": [
-            "ngrok.io"
-        ],
-        "fingerprint": [
-            "Tunnel *.ngrok.io not found",
-            "ngrok.io not found"
-        ],
-        "nxdomain": false
-    },
-    {
         "service": "pantheon",
         "cname": [
             "pantheonsite.io",
@@ -220,42 +100,6 @@
         "fingerprint": [
             "The gods are wise, but do not know of the site which you seek.",
             "404 error unknown site!"
-        ],
-        "nxdomain": false
-    },
-    {
-        "service": "pingdom",
-        "cname": [
-            "stats.pingdom.com"
-        ],
-        "fingerprint": [
-            "This public report page has not been activated",
-            "Public Report Not Activated",
-            "This could be because the account was cancelled",
-            "Sorry, couldn&rsquo;t find the status page",
-            "maybe you slipped over the keyboard"
-        ],
-        "nxdomain": false
-    },
-    {
-        "service": "readme",
-        "cname": [
-            "readme.io",
-            "readmessl.com"
-        ],
-        "fingerprint": [
-            "Project doesnt exist... yet!"
-        ],
-        "nxdomain": false
-    },
-    {
-        "service": "readthedocs",
-        "cname": [
-            "readthedocs.io"
-        ],
-        "fingerprint": [
-            "is unknown to Read the Docs",
-            "CNAME record pointing to readthedocs.io"
         ],
         "nxdomain": false
     },
@@ -272,6 +116,17 @@
         "nxdomain": false
     },
     {
+        "service": "short.io",
+        "cname": [
+        ],
+        "fingerprint": [
+            "Link does not exist",
+            "This domain is not configured on Short.io"
+        ],
+        "nxdomain": false
+
+    },
+    {
         "service": "tilda",
         "cname": [
             "tilda.ws",
@@ -285,33 +140,13 @@
         "nxdomain": false
     },
     {
-        "service": "tumblr",
-        "cname": [
-            "domains.tumblr.com"
-        ],
-        "fingerprint": [
-            "Whatever you were looking for doesn't currently exist at this address",
-            "There's nothing here."
-        ],
-        "nxdomain": false
-    },
-    {
         "service": "webflow",
         "cname": [
             ""
         ],
         "fingerprint": [
-            "The page you are looking for doesn't exist or has been moved."
-        ],
-        "nxdomain": false
-    },
-    {
-        "service": "wordpress",
-        "cname": [
-            "wordpress.com"
-        ],
-        "fingerprint": [
-            "Do you want to register"
+            "The page you are looking for doesn't exist or has been moved.",
+            "The page you are looking for doesn&#x27;t exist or has been moved"
         ],
         "nxdomain": false
     },
