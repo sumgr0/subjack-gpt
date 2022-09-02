@@ -12,23 +12,45 @@
         "nxdomain": false
     },
     {
-        "service": "bitbucket",
-        "cname": [
-            "bitbucket.io"
-        ],
-        "fingerprint": [
-            "Repository not found"
-        ],
-        "nxdomain": false
+         "service": "azure",
+         "cname": [
+            ".accesscontrol.windows.net",
+            ".azure-api.net",
+            ".azurecontainer.io",
+            ".azurecr.io",
+            ".azuredatalakestore.net",
+            ".azureedge.net",
+            ".azurefd.net",
+            ".azurehdinsight.net",
+            ".azure-mobile.net",
+            ".azurewebsites.net",
+            ".biztalk.windows.net",
+            ".blob.core.windows.net",
+            ".cloudapp.azure.com",
+            ".cloudapp.net",
+            ".database.windows.net",
+            ".file.core.windows.net",
+            ".graph.windows.net",
+            ".management.core.windows.net",
+            ".origin.mediaservices.windows.net",
+            ".queue.core.windows.net",
+            ".redis.cache.windows.net",
+            ".search.windows.net",
+            ".servicebus.windows.net",
+            ".table.core.windows.net",
+            ".trafficmanager.net",
+            ".visualstudio.com",
+            ".vo.msecnd.net"
+         ],
+         "fingerprint": [],
+         "nxdomain": true
     },
     {
-        "service": "flywheels",
+        "service": "gitbook",
         "cname": [
-            ""
         ],
         "fingerprint": [
-            "We're sorry, you've landed on a page that is hosted by Flywheel",
-            "<h1>Oops! That's not the site<br>you're looking&nbsp;for.</h1>"
+            "If you need specifics, here's the error"
         ],
         "nxdomain": false
     },
@@ -70,6 +92,16 @@
         "nxdomain": false
     },
     {
+        "service": "netlify",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "Not Found - Request ID:"
+        ],
+        "nxdomain": false
+    },
+    {
         "service": "pantheon",
         "cname": [
             "pantheonsite.io",
@@ -78,17 +110,6 @@
         "fingerprint": [
             "The gods are wise, but do not know of the site which you seek.",
             "404 error unknown site!"
-        ],
-        "nxdomain": false
-    },
-    {
-        "service": "readme",
-        "cname": [
-            "readme.io",
-            "readmessl.com"
-        ],
-        "fingerprint": [
-            "Project doesnt exist... yet!"
         ],
         "nxdomain": false
     },
@@ -105,6 +126,17 @@
         "nxdomain": false
     },
     {
+        "service": "short.io",
+        "cname": [
+        ],
+        "fingerprint": [
+            "Link does not exist",
+            "This domain is not configured on Short.io"
+        ],
+        "nxdomain": false
+
+    },
+    {
         "service": "tilda",
         "cname": [
             "tilda.ws",
@@ -118,23 +150,13 @@
         "nxdomain": false
     },
     {
-        "service": "tumblr",
-        "cname": [
-            "domains.tumblr.com"
-        ],
-        "fingerprint": [
-            "Whatever you were looking for doesn't currently exist at this address",
-            "There's nothing here."
-        ],
-        "nxdomain": false
-    },
-    {
         "service": "webflow",
         "cname": [
             ""
         ],
         "fingerprint": [
-            "The page you are looking for doesn't exist or has been moved."
+            "The page you are looking for doesn't exist or has been moved.",
+            "The page you are looking for doesn&#x27;t exist or has been moved"
         ],
         "nxdomain": false
     },
