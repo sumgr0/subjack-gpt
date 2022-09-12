@@ -12,40 +12,6 @@
         "nxdomain": false
     },
     {
-         "service": "azure",
-         "cname": [
-            ".accesscontrol.windows.net",
-            ".azure-api.net",
-            ".azurecontainer.io",
-            ".azurecr.io",
-            ".azuredatalakestore.net",
-            ".azureedge.net",
-            ".azurefd.net",
-            ".azurehdinsight.net",
-            ".azure-mobile.net",
-            ".azurewebsites.net",
-            ".biztalk.windows.net",
-            ".blob.core.windows.net",
-            ".cloudapp.azure.com",
-            ".cloudapp.net",
-            ".database.windows.net",
-            ".file.core.windows.net",
-            ".graph.windows.net",
-            ".management.core.windows.net",
-            ".origin.mediaservices.windows.net",
-            ".queue.core.windows.net",
-            ".redis.cache.windows.net",
-            ".search.windows.net",
-            ".servicebus.windows.net",
-            ".table.core.windows.net",
-            ".trafficmanager.net",
-            ".visualstudio.com",
-            ".vo.msecnd.net"
-         ],
-         "fingerprint": [],
-         "nxdomain": true
-    },
-    {
         "service": "gitbook",
         "cname": [
         ],
@@ -88,6 +54,16 @@
             "There's nothing here, yet.",
             "herokucdn.com/error-pages/no-such-app.html",
             "<title>No such app</title>"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "netlify",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "Not Found - Request ID:"
         ],
         "nxdomain": false
     },
