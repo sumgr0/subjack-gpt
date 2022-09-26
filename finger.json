@@ -136,17 +136,6 @@
         "nxdomain": false
     },
     {
-        "service": "unbouncepages",
-        "cname": [
-            "unbouncepages.com"
-        ],
-        "fingerprint": [
-            "Sorry, the page you were looking for doesn’t exist.",
-            "The requested URL was not found on this server"
-        ],
-        "nxdomain": false
-    },
-    {
         "service": "webflow",
         "cname": [
             ""
