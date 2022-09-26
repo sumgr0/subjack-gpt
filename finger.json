@@ -111,7 +111,16 @@
             "This domain is not configured on Short.io"
         ],
         "nxdomain": false
-
+    },
+    {
+        "service": "teamwork",
+        "cname": [
+		"teamwork.com"
+        ],
+        "fingerprint": [
+            "Oops - We didn't find your site."
+        ],
+        "nxdomain": false
     },
     {
         "service": "tilda",
@@ -123,6 +132,17 @@
             "Domain has been assigned.",
             "Please go to the site settings",
             "put the domain name in the Domain tab"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "unbouncepages",
+        "cname": [
+            "unbouncepages.com"
+        ],
+        "fingerprint": [
+            "Sorry, the page you were looking for doesn’t exist.",
+            "The requested URL was not found on this server"
         ],
         "nxdomain": false
     },
@@ -148,11 +168,11 @@
         "nxdomain": false
     },
     {
-		"service": "ssl-zendesk",
-		"cname": [
-			".ssl.zendesk.com"
-		],
-		"fingerprint": [],
-		"nxdomain": true
-	}
+	"service": "ssl-zendesk",
+	"cname": [
+	     ".ssl.zendesk.com"
+	],
+	"fingerprint": [],
+	"nxdomain": true
+   }
 ]
