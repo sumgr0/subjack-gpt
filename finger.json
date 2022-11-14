@@ -23,6 +23,17 @@
 	"nxdomain": false
     },
     {
+	"service": "easyredir",
+	"cname": [
+		"easyredirengine.com"
+	],
+	"fingerprint": [
+		"www.easyredircdn.com",
+		"404-host-not-found.html"
+	],
+	"nxdomain": false
+    },
+    {
         "service": "gitbook",
         "cname": [
         ],
