@@ -7,9 +7,20 @@
         ],
         "fingerprint": [
             "The specified bucket does not exist",
-            "NoSuchBucket"
+            "NoSuchBucket",
+	    "<Code>NoSuchBucket</Code>"
         ],
         "nxdomain": false
+    },
+    {
+	"service": "bitbucket",
+	"cname": [
+		""
+	],
+	"fingerprint": [
+		"Repository not found"
+	],
+	"nxdomain": false
     },
     {
 	"service": "campaignmonitor",
@@ -19,6 +30,27 @@
 	"fingerprint": [
 		"Double check the URL or",
 		"Trying to access your account?"
+	],
+	"nxdomain": false
+    },
+    {
+	"service": "desk",
+	"cname": [
+		""
+	],
+	"fingerprint": [
+		"Please try again or try Desk.com free for 14 days.",
+		"Sorry, We Couldn't Find That Page"
+	],
+	"nxdomain": false
+    },
+    {
+	"service": "digitalocean",
+	"cname": [
+		""
+	],
+	"fingerprint": [
+		"Domain uses DO name serves with no records in DO."
 	],
 	"nxdomain": false
     },
@@ -66,12 +98,32 @@
         "nxdomain": false
     },
     {
+        "service": "instapage",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "You've Discovered A Missing Link. Our Apologies!"
+        ],
+        "nxdomain": false
+    },
+    {
         "service": "netlify",
         "cname": [
             ""
         ],
         "fingerprint": [
             "Not Found - Request ID:"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "ngrok",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "Tunnel *.ngrok.io not found"
         ],
         "nxdomain": false
     },
@@ -140,7 +192,18 @@
         "fingerprint": [
             "The page you are looking for doesn't exist or has been moved.",
             "The page you are looking for doesn&#x27;t exist or has been moved",
-	    "The URL you've accessed does not provide a hub. Please check the URL and try again."
+	    "<p class=\"description\">The page you are looking for doesn't exist or has been moved.</p>",
+	    "<p>The URL you've accessed does not provide a hub. Please check the URL and try again.</p>"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "worksites",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "<p>Hello! Sorry, but the website you&rsquo;re looking for doesn&rsquo;t exist.</p>"
         ],
         "nxdomain": false
     },
@@ -150,7 +213,8 @@
             "zendesk.com"
         ],
         "fingerprint": [
-            "Help Center Closed"
+            "Help Center Closed",
+	    "<title>Help Center Closed | Zendesk</title>"
         ],
         "nxdomain": false
     },
