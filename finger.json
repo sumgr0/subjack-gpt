@@ -108,6 +108,16 @@
         "nxdomain": false
     },
     {
+        "service": "meteorcloud",
+        "cname": [
+            "galaxy-ingress.meteor.com"
+        ],
+        "fingerprint": [
+            "404 Not Found: No applications registered for host"
+        ],
+        "nxdomain": false
+    },
+    {
         "service": "netlify",
         "cname": [
             ""
