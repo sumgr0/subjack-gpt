@@ -134,7 +134,7 @@
             "domains.locomotive.works"
         ],
         "fingerprint": [
-	        ""
+	        "locomotive"
         ],
         "nxdomain": false
     },
