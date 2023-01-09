@@ -13,6 +13,16 @@
         "nxdomain": false
     },
     {
+        "service": "aftership",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+	    "Oops.</h2><p class="text-muted text-tight">The page you're looking for doesn't exist."
+        ],
+        "nxdomain": false
+    },
+    {
 	"service": "bitbucket",
 	"cname": [
 		""
