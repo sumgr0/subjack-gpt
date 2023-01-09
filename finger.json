@@ -28,7 +28,7 @@
             ""
         ],
         "fingerprint": [
-	    "Oops.</h2><p class="text-muted text-tight">The page you're looking for doesn't exist."
+	    "The page you're looking for doesn't exist."
         ],
         "nxdomain": false
     },
@@ -125,6 +125,16 @@
         ],
         "fingerprint": [
             "You've Discovered A Missing Link. Our Apologies!"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "locomotive",
+        "cname": [
+            "domains.locomotive.works"
+        ],
+        "fingerprint": [
+	        ""
         ],
         "nxdomain": false
     },
