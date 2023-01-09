@@ -129,16 +129,6 @@
         "nxdomain": false
     },
     {
-        "service": "locomotive",
-        "cname": [
-            "domains.locomotive.works"
-        ],
-        "fingerprint": [
-	        "locomotive"
-        ],
-        "nxdomain": false
-    },
-    {
         "service": "meteorcloud",
         "cname": [
             "galaxy-ingress.meteor.com"
