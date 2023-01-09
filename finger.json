@@ -13,6 +13,16 @@
         "nxdomain": false
     },
     {
+        "service": "aha.io",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+	        "There is no portal here ... sending you back to Aha!"
+        ],
+        "nxdomain": false
+    },
+    {
         "service": "aftership",
         "cname": [
             ""
@@ -50,7 +60,8 @@
 	],
 	"fingerprint": [
 		"Please try again or try Desk.com free for 14 days.",
-		"Sorry, We Couldn't Find That Page"
+		"Sorry, We Couldn't Find That Page",
+		"this help center no longer exists"
 	],
 	"nxdomain": false
     },
