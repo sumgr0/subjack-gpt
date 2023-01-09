@@ -133,7 +133,7 @@
             ""
         ],
         "fingerprint": [
-            "Tunnel *.ngrok.io not found"
+            "*.ngrok.io not found"
         ],
         "nxdomain": false
     },
