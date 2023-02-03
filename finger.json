@@ -87,6 +87,14 @@
 	"nxdomain": false
     },
     {
+        "service": "elasticbean",
+        "cname": [
+            "elasticbeanstalk.com"
+        ],
+        "fingerprint": [],
+        "nxdomain": true
+    },
+    {
         "service": "gitbook",
         "cname": [
         ],
