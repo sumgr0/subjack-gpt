@@ -240,16 +240,6 @@
         "nxdomain": false
     },
     {
-        "service": "readthedocs",
-        "cname": [
-            "readthedocs.io"
-        ],
-        "fingerprint": [
-            "unknown to Read the Docs"
-        ],
-        "nxdomain": false
-    },
-    {
         "service": "shopify",
         "cname": [
             "shops.myshopify.com"
