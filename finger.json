@@ -147,6 +147,18 @@
         "nxdomain": false
     },
     {
+        "service": "heroku",
+        "cname": [
+            "herokuapp.com"
+        ],
+        "fingerprint": [
+            "There's nothing here, yet.",
+            "herokucdn.com/error-pages/no-such-app.html",
+            "No such app"
+        ],
+        "nxdomain": false
+    },
+    {
         "service": "instapage",
         "cname": [
             ""
