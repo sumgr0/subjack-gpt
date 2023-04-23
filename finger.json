@@ -274,13 +274,19 @@
     },
     {
         "service": "smartjobboard",
-        "cname": [
-
-        ],
+        "cname": [],
         "fingerprint": [
             "Job Board Is Unavailable",
             "This job board website is either expired",
             "This job board website is either expired or its domain name is invalid."
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "softr",
+        "cname": [],
+        "fingerprint": [
+            "The application you were looking for was built on Soft"
         ],
         "nxdomain": false
     },
