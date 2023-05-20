@@ -333,7 +333,7 @@
             "The page you are looking for doesn&#x27;t exist or has been moved",
 	    "<p>The page you are looking for doesn&#x27;t exist or has been moved.</p>",
 	    "<p class=\"description\">The page you are looking for doesn't exist or has been moved.</p>",
-	    "<meta content=\"The page you are looking for doesn&#x27;t exist or has been moved.\" name=\"description\">"
+	    "meta content=\"The page you are looking for doesn&#x27;t exist or has been moved.\" name=\"description"
         ],
         "nxdomain": false
     },
